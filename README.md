@@ -1,3 +1,4 @@
+<!--
 ### Hey folks 👋...!
 
 - 🔭 I’m Sudarsan currently doing my bachelors in Indian Institute of Technology,Roorkee. 
@@ -9,7 +10,8 @@
       <br>
 -   👾 Im a space / Aviation enthusiast .  SpaceX Fan Forever ...!
 - 🌱 Feel free to ping me on [Twitter](https://twitter.com/SudarsanR14) and  Discord(sudarsan_369
-#5279)
+#5279) -->
+
 
 
 <!-- - **Currently Listening to :** 
